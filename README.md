@@ -1,7 +1,7 @@
 # CountGangs
 • Skripti jolla näkee paikalla olevat jengiläiset komennolla!
 
-• Command = /countgangs
+• Command: /countgangs
 
 # Configuration
 
